@@ -1,1 +1,0 @@
-flag{ghost_telemetry_recovered}
